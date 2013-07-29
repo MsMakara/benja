@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven:org.apache.poi-poi-3.5-beta5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.5-beta5/poi-3.5-beta5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
